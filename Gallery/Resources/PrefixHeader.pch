@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.h
+//  Gallery
+//
+//  Created by Peter Gubin on 04/05/16.
+//  Copyright © 2016 Peter Gubin. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+#import "NSMutableArray+Collection.h"
+#import "UIViewController+PGAController.h"
+#import "UIColor+CustomColors.h"
+#import "NSArray+Collection.h"
+#import "PGAUtils.h"
+
+#endif /* PrefixHeader_h */
